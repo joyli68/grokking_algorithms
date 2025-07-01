@@ -9,6 +9,6 @@ Exercise 5.3
 Inconsistent
 
 Exercise 5.4
-Inconsistent
+Consistent
 
 '''
